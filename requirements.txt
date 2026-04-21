@@ -9,4 +9,6 @@ Pillow
 gTTS
 plotly
 supabase
+sendgrid
+pytz
 google-api-core
