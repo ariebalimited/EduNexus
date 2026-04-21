@@ -1,4 +1,6 @@
 streamlit
 openai
 supabase
+requests
+SpeechRecognition
 google-api-core
