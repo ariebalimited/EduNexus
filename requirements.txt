@@ -1,6 +1,12 @@
 streamlit
-openai
-supabase
+pandas
+numpy
 requests
 SpeechRecognition
+pyspellchecker
+openai
+Pillow
+gTTS
+plotly
+supabase
 google-api-core
