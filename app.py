@@ -1,5 +1,5 @@
 # =========================================================
-# 🚀 EDUNEXUS AI - COMPLETE PRODUCTION APPLICATION v2.0
+# 🚀 EDUNEXUS AI APPLICATION v2.0
 # =========================================================
 # Tech Stack: Python 3.10+, Streamlit, Supabase, OpenAI GPT-4o
 
@@ -49,7 +49,7 @@ import threading
 import queue
 
 # =============================================
-# 🔧 ADVANCED LOGGING SETUP - ENTERPRISE GRADE
+# 🔧 LOGGING SETUP
 # =============================================
 class EnterpriseLogger:
     """Enterprise-grade logging with file, stream, and remote handlers"""
@@ -109,7 +109,7 @@ class AppConfig:
     """Centralized application configuration"""
     
     # Branding
-    APP_NAME = "🚀 EduNexus"
+    APP_NAME = "🎓 EduNexus"
     TAGLINE = "The Big Future Starts Here"
     VERSION = "2.0.0"
     BUILD_DATE = "2025/01/13"
