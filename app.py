@@ -109,7 +109,7 @@ class AppConfig:
     """Centralized application configuration"""
     
     # Branding
-    APP_NAME = "🎓 EduNexus"
+    APP_NAME = "🎓 Edward Frimpong"
     TAGLINE = "The Big Future Starts Here"
     VERSION = "2.0.0"
     BUILD_DATE = "2025/01/13"
